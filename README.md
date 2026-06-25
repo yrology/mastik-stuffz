@@ -5,4 +5,5 @@ Mastik repo:
   https://cs.adelaide.edu.au/~yval/Mastik/
 
 Paper:
-  https://cs.adelaide.edu.au/~yval/Mastik/Mastik.pdf
+
+https://cs.adelaide.edu.au/~yval/Mastik/Mastik.pdf
